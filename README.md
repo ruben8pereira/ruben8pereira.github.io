@@ -4,4 +4,4 @@
 
 WEB Individual Project
 
-<a href="ruben8pereira.github.io">Visit my website.</a>
+<a href="https://ruben8pereira.github.io">Visit my website.</a>
