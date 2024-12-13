@@ -266,7 +266,6 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: -7.5rem;
 }
 
 .about-containers,
@@ -300,7 +299,7 @@ section {
 }
 
 .section-container {
-  margin-top: 7.5rem;;
+  margin-top: 5rem;;
   gap: 5rem;
   height: 80%;
 }
@@ -313,6 +312,7 @@ section {
 
 #experience {
   position: relative;
+  padding-top: 10rem;
 }
 
 .article {
@@ -359,6 +359,7 @@ section {
 
 #projects {
   position: relative;
+  padding-top: 7.55rem;
 }
 
 #projects .details-container {
@@ -371,7 +372,7 @@ section {
 }
 
 #projects .experience-details-container {
-  margin-top: 10rem;
+  margin-top: 5rem;
 }
 
 .project-img{
