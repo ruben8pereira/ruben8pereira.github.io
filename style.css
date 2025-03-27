@@ -179,6 +179,7 @@ section {
   gap: 5rem;
   height: 80vh;
   justify-content: center;
+  margin-bottom: 5rem;
 }
 
  #profile #socials-container {
@@ -338,7 +339,6 @@ section {
 .experience-container {
   border: rgb(0, 0, 0) 0.25rem solid !important;
   border-radius: 1.5rem !important;
-  margin-bottom: 7.5rem;
   margin-top: 2rem;
 }
 
